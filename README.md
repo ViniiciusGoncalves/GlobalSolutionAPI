@@ -50,41 +50,41 @@ DoacaoController
 </ul>
 
 
-#Criar novo doador
+# Criar novo doador
 
 {
-  "id": 1,
-  "email": "johndoe@example.com",
-  "password": "password123",
-  "cpfOuCnpj": "123456789",
-  "nome": "John Doe",
-  "telefone": "1234567890"
+  "id": 1,<br/>
+  "email": "johndoe@example.com",<br/>
+  "password": "password123",<br/>
+  "cpfOuCnpj": "123456789",<br/>
+  "nome": "John Doe",<br/>
+  "telefone": "1234567890"<br/>
 }
 
-#Preicsando de ajuda
+# Preicsando de ajuda
 
 {
-  "id": 1,
-  "email": "johndoe@example.com",
-  "password": "password123",
-  "cpfOuCnpj": "123456789",
-  "nome": "John Doe",
-  "telefone": "1234567890",
-  "atividades": "Algumas atividades",
-  "familiaAjudada": "Família Ajudada",
-  "representantes": "Representantes",
-  "cep": "12345-678",
-  "endereco": "Rua Exemplo, 123",
-  "cidade": "Cidade Exemplo",
-  "bairro": "Bairro Exemplo"
+  "id": 1,<br/>
+  "email": "johndoe@example.com",<br/>
+  "password": "password123",<br/>
+  "cpfOuCnpj": "123456789",<br/>
+  "nome": "John Doe",<br/>
+  "telefone": "1234567890",<br/>
+  "atividades": "Algumas atividades",<br/>
+  "familiaAjudada": "Família Ajudada",<br/>
+  "representantes": "Representantes",<br/>
+  "cep": "12345-678",<br/>
+  "endereco": "Rua Exemplo, 123",<br/>
+  "cidade": "Cidade Exemplo",<br/>
+  "bairro": "Bairro Exemplo"<br/>
 }
 
 
-#Fazer login com usuario
+# Fazer login com usuario
 
 {
-  "email": "johndoe@example.com",
-  "password": "password123"
+  "email": "johndoe@example.com",<br/>
+  "password": "password123"<br/>
 }
 
 
